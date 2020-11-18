@@ -12,5 +12,4 @@ Both team members will implement evaluation techniques for model selection.
 
 # Algorithms
 The project described is a real-world problem - a classification task where we will implement several machine learning classifiers that predict the survival of patients. SVM, artificial neural network (perceptron), an instance-based learning model (K-Nearest Neighbors), and a probabilistic classifier (Naïve Bayes) will be implemented and compared accordingly. These models will be compared and evaluated using binary classifiers evaluation techniques.
-
 ![Alt text](https://github.com/mZneit/Survival-prediction-of-lung-cancer-patients/blob/main/Timeline.png)

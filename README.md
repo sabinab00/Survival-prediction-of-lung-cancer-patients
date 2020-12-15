@@ -17,3 +17,4 @@ The project described is a real-world problem - a classification task where we w
 # Results
 The performance of the classifiers was compared based on the AUC performance metric. The best performance was achieved by SVM (94%) followed by ANN (87%) and Random Forest (87%). DT and Multinomial Naïve Bayes had the lowest AUC values (64% and 72%) and NB was the weakest classifier in terms of precision, recall, F1 score, and accuracy. The following table shows the performance of the classifiers.
 
+![alt text](https://github.com/mZneit/Survival-prediction-of-lung-cancer-patients/blob/main/table.jpg)

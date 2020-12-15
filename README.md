@@ -21,3 +21,5 @@ The performance of the classifiers was compared based on the AUC performance met
 
 The ROC curve of each of the classifiers is shown in this figure:
 ![alt text](https://github.com/mZneit/Survival-prediction-of-lung-cancer-patients/blob/main/SMOTE%20Test%20Set.png)
+
+# Video Link: https://youtu.be/tQFzEOe4ZHY 

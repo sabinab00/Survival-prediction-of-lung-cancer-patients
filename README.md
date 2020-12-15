@@ -4,11 +4,16 @@ The World Health Organization (WHO) reports cancer as the leading cause of death
 In this project, we will use medical examination data that report mortality rates of lung cancer patients and build machine learning predictive models to predict the survival/mortality of patients one year after the thoracic surgery. The approach is to devise comparable machine learning algorithms and implement them in this medical application to predict post-operative life expectancy in lung-cancer patients. The topic described is a supervised learning task, more specifically, a classification problem with risk of mortality as a target variable.
 
 # Team Contribution
-Manal Zneit – will implement the machine learning algorithms and build predictive models.
+Manal Zneit – implemented the ML algorithms, built, and evaluated predictive models.
+Sabina Bhuiyan – designed the visualization tool for comparison and analysis of the models, ranked risk factors and made the video. Sabina also participated in designing some predictive models as shown in her report.
 
-Sabina Bhuiyan – will design the visualization tool that will demo the comparisons of the models.
+The first 14 pages of the report were written by Manal Zneit. Sabina Bhuiyan wrote the rest of the report.
 
-Both team members will implement evaluation techniques for model selection.
 
 # Algorithms
-The project described is a real-world problem - a classification task where we will implement several machine learning classifiers that predict the survival of patients. SVM, artificial neural network (perceptron), an instance-based learning model (K-Nearest Neighbors), and a probabilistic classifier (Naïve Bayes) will be implemented and compared accordingly. These models will be compared and evaluated using binary classifiers evaluation techniques.
+The project described is a real-world problem - a classification task where we will implement several machine learning classifiers that predict the survival of patients. SVM, MLP, Logistic Regression, Naive Bayes, KNN, DT, and Random Forest were implemented and their performance measures were compared. 
+
+
+# Results
+The performance of the classifiers was compared based on the AUC performance metric. The best performance was achieved by SVM (94%) followed by ANN (87%) and Random Forest (87%). DT and Multinomial Naïve Bayes had the lowest AUC values (64% and 72%) and NB was the weakest classifier in terms of precision, recall, F1 score, and accuracy. The following table shows the performance of the classifiers.
+
